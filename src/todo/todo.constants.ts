@@ -1,0 +1,12 @@
+export const API_TAG = 'api/todo'
+export const GET_USERS_TODO_LIST = 'Get users todo list'
+export const USERS_TODO_LIST = 'User\'s todo list'
+export const ADD_TODO = 'Add todo'
+export const TODO_IS_ADDED = 'Todo is added'
+export const TODO_EDIT = 'Edit todo'
+export const TODO_HAS_BEEN_EDITED = 'Todo has been edited'
+export const DELETE_TODO = 'Delete todo'
+export const TODO_HAS_BEEN_DELETED = 'Todo has been deleted'
+export const TODO_NOT_FOUND = 'Todo not found.'
+export const TODO_WITH_THE_SAME_TITLE_AND_DESCRIPTION_ALREADY_EXISTS =
+	'Todo with the same title and description already exists'
